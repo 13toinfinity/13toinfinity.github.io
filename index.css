@@ -1,0 +1,15 @@
+html{ 
+    background-color: black;
+}
+#logo{
+    height: 100px;
+}
+#about {
+    height: 50px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+}
+nav li {
+    margin: auto;
+    display: inline-block;
+}
